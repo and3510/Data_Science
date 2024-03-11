@@ -2,3 +2,5 @@
 # Criar um Banco de Dados
 -- SQLBook: Code
 create DATABASE del;
+-- SQLBook: Code
+drop 
